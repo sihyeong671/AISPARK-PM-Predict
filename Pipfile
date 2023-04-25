@@ -18,6 +18,7 @@ ipykernel = "*"
 pandas = "*"
 matplotlib = "*"
 scikit-learn = "*"
+folium = "*"
 
 [dev-packages]
 
