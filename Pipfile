@@ -19,6 +19,10 @@ pandas = "*"
 matplotlib = "*"
 scikit-learn = "*"
 folium = "*"
+nbformat = "*"
+haversine = "*"
+statsmodels = "*"
+xgboost = "*"
 
 [dev-packages]
 
